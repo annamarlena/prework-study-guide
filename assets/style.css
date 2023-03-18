@@ -14,6 +14,7 @@ footer {
 h1,
 h2 {
     text-align: center;
+    font-family: arial;
 }
 
 img {
@@ -27,11 +28,14 @@ img {
 ul {
     padding-left: 40px;
     font-size: 20px;
+    font-family: arial;
+    color: gray;
 }
 
 p {
     text-align: center;
     font-size: 30px;
+    font-family: arial;
 }
 
 .card {
